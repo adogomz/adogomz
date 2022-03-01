@@ -7,7 +7,7 @@ Despues de llevar mas de 20 años trabajando en emergencias, y tener que sacarno
 ## Este es el camino que voy recorriendo
 
 - Estudiante DAM ULHI BIRTLH
-- Cursos CSS HTLM y JS
+- Cursos CSS HTML, JS, MONGODB
 - Metodolgias agiles
 
 Aun queda mucho que hacer y aqui seguiremos
